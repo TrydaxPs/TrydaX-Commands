@@ -1,0 +1,21 @@
+¿Como obtengo el token de mi bot?
+- Visita https://discord.com/developers/applications
+- Tocar donde dice "New Application"
+- Escribe el nombre de tu bot y marca la casilla, luego presionas en el boton de "Create"
+- Despues de darle en "Create", anda a la opción donde dice "Bot" donde alli puedes personalizarlo
+- Luego estando en la opción de "Bot", desliza un poco y marca todas las casillas que salen en la sección "Privileged Gateway Intents"
+- Una vez que hayas marcado las casillas, ahora tienes que tocar el botón donde dice "Reset Token" y darle en aceptar
+- Ahora te aparecerá el boton de "Copy", presiona ese botón y abre el archivo "main.py" ya sea en visual studio code o en bloc de notas
+- Finalmente pega el token copiado donde dice "Token"
+
+How do I get my bot token?
+- Visit https://discord.com/developers/applications
+- Touch where it says "New Application"
+- Write the name of your bot and check the box, then click on the "Create" button
+- After clicking on "Create", go to the option where it says "Bot" where you can customize it
+- Then being in the "Bot" option, slide a little and check all the boxes that appear in the "Privileged Gateway Intents" section
+- Once you have checked the boxes, you now have to touch the button where it says "Reset Token" and click accept
+- Now the "Copy" button will appear, press that button and open the "main.py" file either in visual studio code or in notepad
+- Finally paste the copied token where it says "Token"
+
+MTIyMTI0NTM2OTE1NDAxNTM2Mw.GgJ5n8.EnDNGGaM5y8VGUVycPZCME4lVla0y1XxL8xwBc
