@@ -1,7 +1,7 @@
 {
     "token" : "BOT_TOKEN",
     "prefix": "PREFIX",
-    "owner": [YOUR_ID, ALT_ID],
+    "owner": [YOUR_ID],
     "status": "Made By Trydax",
     "channel_name" : ["trydax on fire", "raided", "rb3 trash", "downs", "bitch dead"],
     "roles_name": ["suck", "pwn", "tewst"],
