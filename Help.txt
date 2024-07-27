@@ -17,5 +17,3 @@ How do I get my bot token?
 - Once you have checked the boxes, you now have to touch the button where it says "Reset Token" and click accept
 - Now the "Copy" button will appear, press that button and open the "main.py" file either in visual studio code or in notepad
 - Finally paste the copied token where it says "Token"
-
-MTIyMTI0NTM2OTE1NDAxNTM2Mw.GgJ5n8.EnDNGGaM5y8VGUVycPZCME4lVla0y1XxL8xwBc
